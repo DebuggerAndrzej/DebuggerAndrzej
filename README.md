@@ -1,7 +1,6 @@
 ## Hi, I’m Andrzej, full time python developer
 - I'm currently working on my first rust app :crab:
 - I'm looking to collaborate on some open source projects
-- 
 
 ---
 
