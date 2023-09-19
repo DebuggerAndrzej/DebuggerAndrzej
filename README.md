@@ -1,5 +1,5 @@
 ## Hi, I’m Andrzej, full time python developer
-- I'm currently working on my first **Go** app
+- I'm currently working on my first **Go** and **Rust** projects
 - I'm looking to collaborate on some open source projects
 
 ---
