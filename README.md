@@ -1,6 +1,25 @@
-## Hi, I’m Andrzej, full time python developer
-- I'm currently working on my first **Go** and **Rust** projects
-- I'm looking to collaborate on some open source projects
+## Andrzej Mazurkiewicz
+**`Software Engineer (Python)`**
+
+Passionate developer who loves programming and exploring ways to improve daily productivity using scripts/tools.
+
+### Languages
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/>
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg"/>
+<br/>
+<br/>
+
+### Tools
+
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/>
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<br/>
+<br/>
 
 ---
 
